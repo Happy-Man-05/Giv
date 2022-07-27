@@ -1,0 +1,47 @@
+body {
+    background: url(../img/w200.gif)center/ cover no-repeat;
+}
+
+.inp {
+    padding: 4px 20px;
+    background-color: rgba(255, 255, 255, 0.705);
+    border-radius: 70px;
+    font-weight: 1000;
+}
+
+.output {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 40px;
+}
+
+
+
+.search {
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgba(28, 221, 28, 0.664);
+    font-weight: 700;
+}
+
+.card {
+    width: 27%;
+}
+
+.card_h2 {
+    font-size: 16px;
+    padding-left: 10px;
+    color: blue;
+    /* background-color: paleturquoise; */
+    padding-bottom: 10px;
+    box-shadow: 5px 3px 4px 3px rgb(68, 186, 255);
+}
+
+.card_img {
+    border-radius: 20px;
+    box-shadow: 10px 5px 4px rgba(255, 0, 0, 0.658);
+    background: 9px 10px 4px #000;
+    background-color: black;
+}
